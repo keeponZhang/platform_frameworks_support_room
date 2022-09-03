@@ -30,8 +30,6 @@ import android.os.SystemClock;
 
 import androidx.collection.SimpleArrayMap;
 import androidx.core.util.Pair;
-import androidx.lifecycle.LiveData;
-import androidx.lifecycle.Observer;
 import androidx.room.InvalidationTracker;
 import androidx.room.Room;
 import androidx.room.RoomDatabase;

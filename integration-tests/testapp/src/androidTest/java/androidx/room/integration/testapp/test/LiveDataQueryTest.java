@@ -27,8 +27,6 @@ import android.os.Build;
 
 import androidx.arch.core.executor.testing.CountingTaskExecutorRule;
 import androidx.lifecycle.Lifecycle;
-import androidx.lifecycle.LiveData;
-import androidx.lifecycle.Observer;
 import androidx.room.InvalidationTrackerTrojan;
 import androidx.room.Room;
 import androidx.room.integration.testapp.FtsTestDatabase;

@@ -19,7 +19,6 @@ package androidx.room.integration.testapp.dao;
 import static androidx.room.integration.testapp.vo.FunnyNamedEntity.COLUMN_ID;
 import static androidx.room.integration.testapp.vo.FunnyNamedEntity.TABLE_NAME;
 
-import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
 import androidx.room.Delete;
 import androidx.room.Insert;

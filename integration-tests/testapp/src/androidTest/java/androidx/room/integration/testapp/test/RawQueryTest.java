@@ -23,7 +23,6 @@ import static org.hamcrest.MatcherAssert.assertThat;
 import static java.util.Collections.emptyList;
 
 import androidx.arch.core.executor.testing.CountingTaskExecutorRule;
-import androidx.lifecycle.LiveData;
 import androidx.room.integration.testapp.dao.RawDao;
 import androidx.room.integration.testapp.vo.NameAndLastName;
 import androidx.room.integration.testapp.vo.Pet;

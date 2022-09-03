@@ -24,7 +24,6 @@ import static org.hamcrest.Matchers.greaterThan;
 
 import androidx.arch.core.executor.ArchTaskExecutor;
 import androidx.arch.core.executor.DefaultTaskExecutor;
-import androidx.lifecycle.LiveData;
 import androidx.room.Room;
 import androidx.room.integration.testapp.TestDatabase;
 import androidx.room.integration.testapp.dao.PetDao;

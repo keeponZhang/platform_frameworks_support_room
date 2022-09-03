@@ -19,7 +19,6 @@ package androidx.room.integration.testapp.dao;
 import android.os.Build;
 
 import androidx.annotation.RequiresApi;
-import androidx.lifecycle.LiveData;
 import androidx.room.Dao;
 import androidx.room.Query;
 

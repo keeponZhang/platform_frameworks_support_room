@@ -18,8 +18,6 @@ package androidx.room.integration.testapp.test;
 
 import androidx.arch.core.executor.ArchTaskExecutor;
 import androidx.lifecycle.LifecycleOwner;
-import androidx.lifecycle.LiveData;
-import androidx.lifecycle.Observer;
 import androidx.room.integration.testapp.vo.Address;
 import androidx.room.integration.testapp.vo.Coordinates;
 import androidx.room.integration.testapp.vo.House;

@@ -16,7 +16,6 @@
 
 package androidx.room.integration.testapp.dao;
 
-import androidx.lifecycle.LiveData;
 import androidx.room.ColumnInfo;
 import androidx.room.Dao;
 import androidx.room.RawQuery;

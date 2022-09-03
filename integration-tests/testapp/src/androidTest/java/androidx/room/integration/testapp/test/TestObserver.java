@@ -20,7 +20,6 @@ import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.MatcherAssert.assertThat;
 
 import androidx.annotation.Nullable;
-import androidx.lifecycle.Observer;
 
 import java.util.concurrent.TimeoutException;
 

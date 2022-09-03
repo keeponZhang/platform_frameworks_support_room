@@ -31,8 +31,6 @@ import android.content.Context;
 
 import androidx.annotation.NonNull;
 import androidx.arch.core.executor.testing.CountingTaskExecutorRule;
-import androidx.lifecycle.LiveData;
-import androidx.lifecycle.Observer;
 import androidx.room.Dao;
 import androidx.room.Database;
 import androidx.room.DatabaseView;

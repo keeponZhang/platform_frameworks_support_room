@@ -24,8 +24,6 @@ import android.os.Looper;
 import android.os.Process;
 
 import androidx.annotation.Nullable;
-import androidx.lifecycle.LiveData;
-import androidx.lifecycle.Observer;
 import androidx.room.Room;
 import androidx.room.integration.testapp.database.Customer;
 import androidx.room.integration.testapp.database.SampleDatabase;

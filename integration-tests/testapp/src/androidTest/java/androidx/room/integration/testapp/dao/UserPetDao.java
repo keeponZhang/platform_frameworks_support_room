@@ -16,7 +16,6 @@
 
 package androidx.room.integration.testapp.dao;
 
-import androidx.lifecycle.LiveData;
 import androidx.paging.DataSource;
 import androidx.room.Dao;
 import androidx.room.Delete;
